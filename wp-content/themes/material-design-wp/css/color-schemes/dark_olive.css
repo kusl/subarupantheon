@@ -1,0 +1,37 @@
+header#masthead, nav.navbar-collapse{
+    background: #00897b;
+}
+.entry-content a,
+.entry-meta a,
+.entry-footer a,
+.entry-footer .cat-links a,
+.entry-meta .byline a,
+.nav>li>a:focus,
+.nav>li>a:hover {
+    color: #00897b;
+}
+.entry-title a{
+    color: #00897b;
+}
+.nav-previous a, .nav-next a {
+    color: #00897b;
+}
+#commentform input#submit, .reply a {
+    background: #00897b;
+}
+.reply a:hover,
+#commentform input#submit:hover,
+.reply a:focus,
+#commentform input#submit:focus,
+input.btn:focus {
+    background: #00897b;
+}
+input.search-field::placeholder {
+    color: #00897b !important;
+}
+.search-form label:hover:before {
+    background: #00897b;
+}
+input.search-field {
+    border-bottom: 1px solid #00897b !important;
+}

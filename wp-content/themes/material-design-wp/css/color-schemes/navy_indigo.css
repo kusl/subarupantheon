@@ -1,0 +1,37 @@
+header#masthead, nav.navbar-collapse {
+    background: #3949ab;
+}
+.entry-content a,
+.entry-meta a,
+.entry-footer a,
+.entry-footer .cat-links a,
+.entry-meta .byline a,
+.nav>li>a:focus,
+.nav>li>a:hover {
+    color: #3949ab;
+}
+.entry-title a{
+    color: #3949ab;
+}
+.nav-previous a, .nav-next a {
+    color: #3949ab;
+}
+#commentform input#submit, .reply a {
+    background: #3949ab;
+}
+.reply a:hover,
+#commentform input#submit:hover,
+.reply a:focus,
+#commentform input#submit:focus,
+input.btn:focus {
+    background #3949ab;
+}
+input.search-field::placeholder {
+    color: #3949ab !important;
+}
+.search-form label:hover:before {
+    background: #3949ab;
+}
+input.search-field {
+    border-bottom: 1px solid #3949ab !important;
+}

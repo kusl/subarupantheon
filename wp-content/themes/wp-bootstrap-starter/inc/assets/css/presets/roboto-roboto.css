@@ -1,0 +1,188 @@
+body > div {
+    font-size: 0.875rem;
+}
+body {
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.68);
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.714em;
+    margin: 0;
+}
+/* Headings
+--------------------------------------------- */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgba(0, 0, 0, 0.87);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0 0 20px;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 44px;
+    font-size: 2.75rem;
+    font-weight: 300;
+    line-height: 1.273em;
+    margin: 0;
+    padding: 1.5rem 0 0.75rem;
+}
+
+h2 {
+    font-size: 28px;
+    font-size: 1.75rem;
+    font-weight: 400;
+    line-height: 1.143em;
+    margin: 0;
+    padding: 0.75rem 0 1rem;
+}
+
+h3 {
+    font-size: 24px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.333em;
+    margin: 0;
+    padding: 0.5rem 0 0.75rem;
+}
+
+.comment-respond h3,
+.entry-comments h3 {
+    font-size: 36px;
+    font-size: 2.25rem;
+    letter-spacing: -2px;
+    margin-bottom: 3.750rem;
+    margin-top: 6.25rem;
+}
+
+h4 {
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0.25rem 0 0.5rem;
+}
+
+h5 {
+    font-size: 16px;
+    font-size: 1rem;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0.25rem 0 0.5rem;
+}
+
+h6 {
+    font-size: 0.875rem;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0.25rem 0 0.5rem;
+}
+
+p, pre, table, form {
+    margin: 0 0 0.857rem;
+}
+
+a,
+button,
+input:focus,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+textarea:focus,
+.button,
+.gallery img,
+.site-header {
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition:    all 0.2s ease-in-out;
+    -ms-transition:     all 0.2s ease-in-out;
+    -o-transition:      all 0.2s ease-in-out;
+    transition:         all 0.2s ease-in-out;
+}
+
+a {
+    color: #039be5;
+    text-decoration: none;
+
+}
+a:focus, a:hover {
+    color: rgba(3, 155, 229, 0.7);
+    text-decoration: none;
+}
+.navbar-brand {
+    padding-top: 0.25rem;
+}
+.navbar-brand > a {
+    color: #232525;
+    font-family: "Roboto",sans-serif;
+    font-size: 1.25rem;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    line-height: 1;
+}
+#masthead .navbar-nav > li a {
+    border-bottom-width: 0;
+    color: #232525;
+    display: block;
+    font-family: "Roboto",sans-serif;
+    font-size: 0.875em;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    padding: 10px;
+    text-transform: uppercase;
+}
+#masthead .navbar-nav > li > a:focus, #masthead .navbar-nav > li > a:hover {
+    color: #039be5 !important;
+}
+div#page-sub-header h1 {
+    font-family: "Roboto",sans-serif;
+    font-size: 4.85rem;
+    letter-spacing: -3px;
+    line-height: 1.2;
+    margin-bottom: 0;
+    text-transform: none;
+    padding-top: 0;
+}
+div#page-sub-header p {
+    max-width: 100%;
+    font-size: 20px;
+    font-size: 1.25rem;
+}
+.page .entry-title,
+.single .entry-title,
+.blog .entry-title {
+    font-size: 48px;
+    font-size: 3rem;
+    font-weight: 300;
+    padding: 0;
+}
+
+#secondary .widget-title {
+    font-family: "Roboto",sans-serif;
+    font-size: 13px;
+    font-size: 0.813rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 1.125em;
+    text-transform: uppercase;
+}
+
+.entry-meta {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+}
+.post-thumbnail {
+    margin-bottom: 1.875rem;
+}
+.form-control {
+    font-size: 1rem;
+}

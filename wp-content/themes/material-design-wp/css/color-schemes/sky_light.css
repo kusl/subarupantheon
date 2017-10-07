@@ -1,0 +1,38 @@
+
+header#masthead, nav.navbar-collapse {
+    background: #00bcd4;
+}
+.entry-content a,
+.entry-meta a,
+.entry-footer a,
+.entry-footer .cat-links a,
+.entry-meta .byline a,
+.nav>li>a:focus,
+.nav>li>a:hover {
+    color: #00bcd4;
+}
+.entry-title a{
+    color: #00bcd4;
+}
+.nav-previous a, .nav-next a {
+    color: #00bcd4;
+}
+#commentform input#submit, .reply a {
+    background: #00bcd4;
+}
+.reply a:hover,
+#commentform input#submit:hover,
+.reply a:focus,
+#commentform input#submit:focus,
+input.btn:focus {
+    background: #00bcd4;
+}
+input.search-field::placeholder {
+    color: #00bcd4 !important;
+}
+.search-form label:hover:before {
+    background: #00bcd4;
+}
+input.search-field {
+    border-bottom: 1px solid #00bcd4 !important;
+}
